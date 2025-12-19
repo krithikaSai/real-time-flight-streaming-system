@@ -3,7 +3,7 @@
 Aviation data is highly fragmented across multiple independent sources. Real-time telemetry, flight schedules, airport details, and weather data are all published separately, and no single API provides a unified or complete view of global aviation activity. This creates gaps in
 operational monitoring, delay analysis, and situational awareness. To understand real-time flight patterns and identify performance trends, an integrated system is required to collect, combine, and analyze data from multiple providers.
 
-I have built live dashboard containing global flight activity, operational metrics, delay analysis, and weather correlations, with the data collected from four external API's, using Python-based Kafka producers and consumers. 
+I have built a live dashboard containing global flight activity, operational metrics, delay analysis, and weather correlations, with the data collected from four external API's, using Python-based Kafka producers and consumers. 
 
 ### System Architecture
 
