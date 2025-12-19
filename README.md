@@ -11,10 +11,10 @@ I have built a live dashboard containing global flight activity, operational met
 
 ### Data provided by each API
 
-OpenSky – live flight telemetry
-AviationStack – flight schedules, statuses, and delays
-OpenWeather – airport-specific weather conditions
-AirLabs – global airport database with coordinates
+OpenSky – live flight telemetry <br>
+AviationStack – flight schedules, statuses, and delays <br>
+OpenWeather – airport-specific weather conditions <br>
+AirLabs – global airport database with coordinates <br>
 
 
 ---
