@@ -22,7 +22,7 @@ AirLabs – global airport database with coordinates <br>
 
 This section provides a high-level view of global air traffic using real-time telemetry and route metadata.
 
-##SECTION 1 - GLOBAL OVERVIEW
+## SECTION 1 - GLOBAL OVERVIEW
 
 ### *Arc Map — Global Flight Routes*
 Displays live flight routes across the world using aircraft positions from telemetry_events.Shows large-scale movement patterns and active corridors.
@@ -46,7 +46,7 @@ Lists structured routes with airport coordinates and flight metadata, providing 
 
 ---
 
-##SECTION 2 - LIVE OPERATIONAL METRICS
+## SECTION 2 - LIVE OPERATIONAL METRICS
 
 This section analyzes active flights in real time using telemetry data.
 
@@ -73,7 +73,7 @@ Shows the directional flow of global traffic using aircraft heading values.
 
 ---
 
-##SECTION 3 - FLIGHT PERFORMANCE AND DELAYS
+## SECTION 3 - FLIGHT PERFORMANCE AND DELAYS
 
 This section uses structured metadata to analyze delay patterns and operational punctuality.
 
@@ -109,7 +109,7 @@ Percentage of flights with delay under 15 minutes, following industry standards.
 
 ---
 
-##SECTION 4 - WEATHER FLIGHT CORRELATION
+## SECTION 4 - WEATHER FLIGHT CORRELATION
 
 This section analyzes how weather conditions influence flight delays.
 
@@ -139,7 +139,7 @@ Raw weather measurements used across all correlation charts.
 
 ---
 
-##SECTION 5 - GEO VISUALS
+## SECTION 5 - GEO VISUALS
 
 These visualizations provide spatial context using maps and 3D geospatial layers.
 
